@@ -1,0 +1,88 @@
+{
+  "raposas": [
+    {
+      "nome": "Raposa-do-cabo",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vulpes_chama_%28Etosha%29.jpg/250px-Vulpes_chama_%28Etosha%29.jpg",
+      "nomeCientifico": "Vulpes chama",
+      "verdadeira": "Sim",
+      "comprimento": "53cm"
+    },
+    {
+      "nome": "Raposa-vermelha",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulpes_vulpes_ssp_fulvus.jpg/280px-Vulpes_vulpes_ssp_fulvus.jpg",
+      "nomeCientifico": "Vulpes vulpes",
+      "verdadeira": "Sim",
+      "comprimento": "45-90cm"
+    },
+    {
+      "nome": "Raposa-das-estepes",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox---Vulpes-corsac---%28Gentry%29.jpg/220px-Fox---Vulpes-corsac---%28Gentry%29.jpg",
+      "nomeCientifico": "Vulpes corsac",
+      "verdadeira": "Sim",
+      "comprimento": "45-65cm"
+    },
+    {
+      "nome": "Raposa anã",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vulpes_macrotis_mutica_with_pups.jpg/220px-Vulpes_macrotis_mutica_with_pups.jpg",
+      "nomeCientifico": "Vulpes macrotis",
+      "verdadeira": "Sim",
+      "comprimento": "45,5-53,5cm"
+    },
+    {
+      "nome": "Raposa-veloz",
+      "imagem": "https://s3.animalia.bio/animals/photos/full/original/swift-fox-3.webp",
+      "nomeCientifico": "Vulpes velox",
+      "verdadeira": "Sim",
+      "comprimento": "70-88cm"
+    },
+    {
+      "nome": "Raposa-do-deserto",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/TA_ZOO_orna_Pict0224edit2.jpg/200px-TA_ZOO_orna_Pict0224edit2.jpg",
+      "nomeCientifico": "Vulpes zerda",
+      "verdadeira": "Sim",
+      "comprimento": "24-40cm"
+    },
+    {
+      "nome": "Raposa-de-rüppell",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/R%C3%BCppell%27s_fox.jpg/280px-R%C3%BCppell%27s_fox.jpg",
+      "nomeCientifico": "Vulpes rueppellii",
+      "verdadeira": "Sim",
+      "comprimento": "66-74cm"
+    },
+    {
+      "nome": "Raposa-afegã",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blandford%27s_fox_1.jpg/280px-Blandford%27s_fox_1.jpg",
+      "nomeCientifico": "Vulpes cana",
+      "verdadeira": "Sim",
+      "comprimento": "38,5-80cm"
+    },
+    {
+      "nome": "Raposa-do-ártico",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Iceland-1979445.jpg/200px-Iceland-1979445.jpg",
+      "nomeCientifico": "Vulpes lagopus",
+      "verdadeira": "Sim",
+      "comprimento": "46-68cm"
+    },
+    {
+      "nome": "Raposa-tibetana",
+      "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfGQkVj1ZtRr5A4dubGtuoZ20RYTO1qzWGbe8R1ISBbJC2AIib",
+      "nomeCientifico": "Vulpes ferrilata",
+      "verdadeira": "Sim",
+      "comprimento": "60-70cm"
+    },
+    {
+      "nome": "Raposa pálida",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Keulemans_pale_fox.png/280px-Keulemans_pale_fox.png",
+      "nomeCientifico": "Vulpes pallida",
+      "verdadeira": "Sim",
+      "comprimento": "38-55cm"
+    },
+    {
+      "nome": "Raposa-de-bengala",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Black_tailed_fox_%28Bengal_Fox%29_at_Desert_NP_%28cropped%29.jpg/280px-Black_tailed_fox_%28Bengal_Fox%29_at_Desert_NP_%28cropped%29.jpg",
+      "nomeCientifico": "Vulpes bengalensis",
+      "verdadeira": "Sim",
+      "comprimento": "39-57,5cm"
+    }
+  ]
+}
