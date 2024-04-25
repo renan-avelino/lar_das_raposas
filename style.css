@@ -1,0 +1,161 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  display: flex;
+  flex-direction: column;
+  background-color: #2B4547;
+  flex: 1;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+  flex: 1;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3%;
+  margin: 4%;
+  flex: 1;
+  background-color: #31767A;
+}
+
+article{
+  padding: 2.5%;
+}
+
+article p{
+  word-break: break-all;
+  text-align: match-parent;
+  text-justify: inter-word;
+  text-indent: 3%;
+  color: whitesmoke;
+  font-size: 1.20rem;
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+  flex: 1;
+  color: white;
+  background-color: #31767A;
+  width: 100%;
+  text-transform: uppercase;
+}
+
+h2,h3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+  flex: 1;
+  color: white;
+  background-color: #31767A;
+  width: 100%;
+  text-transform: uppercase;
+}
+
+.navbar {
+  display: inline-flex;
+  flex-direction: row;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+  width: 100%;
+  background-color: #293233; 
+}
+
+.navbar nav {
+  display: inline-flex;
+  flex-direction: column;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+  width: 100%;
+  background-color: #293233;
+
+}
+
+nav p {
+  color: whitesmoke;
+  font-size: 1.25rem;
+  text-align: center;
+  align-self: center;
+  align-content: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #23A4AD;
+  flex: 1;
+  margin-inline: 5vh;
+  margin-block: 1%;
+  padding: 2%;
+}
+
+.card img {
+  width: 80%;
+  height: 80%;
+  border-radius: 11%;
+}
+
+.card h1 {
+  color: whitesmoke;
+  font-size: 1.75rem;
+  text-align: center;
+  align-self: center;
+  align-content: center;
+}
+
+.text {
+  text-align: center;
+  color: white;
+  font-size: 1.1rem;
+  word-wrap: break-word;
+}
+
+.colection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  align-self: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+footer{
+  background-color: #293233;
+  height: max-content;
+  padding-block: 3%;
+  padding-inline: 5%;
+  color: white;
+}
+
+footer a{
+  text-decoration: none;
+  color: white;
+}
+
+#subir {
+  height: 10.5vh;
+  width: 10.5vh;
+  position: fixed;
+  left: calc(50vw - 5.25vh);
+  top: 8%;
+  display: none;
+  cursor: pointer;
+}
